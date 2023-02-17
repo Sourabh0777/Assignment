@@ -1,0 +1,51 @@
+.myFav{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+.myFav_button{
+    margin-top: 90px;
+}
+.myFav_Go_ToSearch_button{
+    background-color: #ff3c4a;
+    border-radius: 5px;
+    border: 1px solid;
+    width: 190px;
+    height: 40px;
+    color: white;
+    font-size: 18px;
+    border: white;
+    margin-right: 100px;
+}
+.myFav_cards{
+    margin-top: 80px;
+    background-color: white;
+    padding: 20px 50px 0 50px;
+}
+.myFav_cards>h2{
+    color: #ff3c4a;
+    padding-bottom: 10px;
+    border-bottom: 2px solid salmon;
+    margin-bottom: 20px;
+}
+.myFav_card{
+    border: 2px solid grey;
+    margin-bottom: 10px;
+    display: flex;
+    border-radius: 20px;
+}
+.myFav_card>h1{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 18px;
+    flex: 0.5;
+}
+.myFav_card>img{
+    border: 3px solid #ff3c4a;
+    border-radius: 10px;
+    margin: 10px;
+    width: 180px;
+    height: 150px;
+
+}

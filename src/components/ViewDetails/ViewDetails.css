@@ -1,0 +1,74 @@
+.viewdetails {
+  display: flex;
+  flex-direction: column;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+.viewDetails_header {
+  display: flex;
+  align-items: center;
+}
+.backbutton {
+  background-color: #ff3c4a;
+  border-radius: 5px;
+  color: white;
+  border-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 20px;
+}
+.viewdetails_myfav {
+  background-color: #ff3c4a;
+  border-radius: 5px;
+  color: white;
+  border-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 20px;
+}
+.search_list {
+  background-color: white;
+  border-radius: 5px;
+  display: flex;
+  align-items: start;
+  justify-content: space-evenly;
+}
+.search_list > div {
+  display: flex;
+  margin: 10px;
+
+}
+
+.search_list > div > h6 {
+  font-size: 14px;
+}
+.search_list > div > h4 {
+  font-size: 18px;
+}
+.ViewDetails_box {
+  display: flex;
+  margin-left: 20px;
+}
+.image {
+  object-fit: contain;
+  margin-bottom: 0;
+  margin-left: 20px;
+
+}
+.image_of_item {
+  margin-top: 10px;
+}
+.ViewDetails_box_Discription{
+  padding-bottom: 100px;
+  flex: 0.7;
+}
+.ViewDetails_box_Discription>p{
+  font-size: 18px;
+  align-content: center;
+  margin-top: 10px;
+
+}
