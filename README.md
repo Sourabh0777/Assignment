@@ -5,7 +5,7 @@ Miltiple map function used.
 I have used rect router v6.3.0 to route to different pages. 
 Local storage will store the data of my fav recipies. For loop and other logis used to store the data in local and to show them.
 Css is just average, was more focused to the core logic. 
-Some mateerial ui icons are used. 
+Some material ui icons are imported. 
 Attaching some images of the project. 
 ![image](https://user-images.githubusercontent.com/46265339/219600361-40664524-f884-4f7c-af84-be36927147f5.png)
 ![image](https://user-images.githubusercontent.com/46265339/219600452-cab36b91-fe24-4a30-acf5-417606a397c2.png)
