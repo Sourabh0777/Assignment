@@ -1,4 +1,3 @@
-This is an assignment assigned to me. 
 I have fetched the data from the Spoonacular api. 
 Have used debouncing to delay the response and make the search more efficient. Delay of 500 milli sec is used. 
 I have passed on the data using props, as it is a 3 page project so redux/toolkit was not needed. 
