@@ -1,3 +1,18 @@
+This is an assignment assigned to me. 
+I have fetched the data from the Spoonacular api. 
+Have used debouncing to delay the response and make the search more efficient. Delay of 500 milli sec is used. 
+I have passed on the data using props, as it is a 3 page project so redux/toolkit was not needed. 
+Miltiple map function used. 
+I have used rect router v6.3.0 to route to different pages. 
+Local storage will store the data of my fav recipies. For loop and other logis used to store the data in local and to show them.
+Css is just average, was more focused to the core logic. 
+Some mateerial ui icons are used. 
+Attaching some images of the project. 
+![image](https://user-images.githubusercontent.com/46265339/219600361-40664524-f884-4f7c-af84-be36927147f5.png)
+![image](https://user-images.githubusercontent.com/46265339/219600452-cab36b91-fe24-4a30-acf5-417606a397c2.png)
+![image](https://user-images.githubusercontent.com/46265339/219600559-ce693998-a47a-4c7d-be08-27f846d5893b.png)
+![image](https://user-images.githubusercontent.com/46265339/219600638-b0590328-e1fe-423e-990a-ead7e384ca0e.png)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
